@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 03 May 2021 14:49:16 at https://www.ezglobalyazilim.com/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.ezglobalyazilim.com/index.html -O1 "C:\My Web Sites\Lykware" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:49:37	Error: 	"Not Found" (404) at link https://www.ezglobalyazilim.com/img/apple-touch-icon.png (from https://www.ezglobalyazilim.com/index.html)
+14:49:48	Error: 	"Not Found" (404) at link https://www.ezglobalyazilim.com/"../websanat/genel_resimler/dinazor.jpg" (from https://www.ezglobalyazilim.com/csgo_hile_satinal/1.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 35 seconds : 127 links scanned, 124 files written (11698850 bytes overall) [9497069 bytes received at 271344 bytes/sec], 3067443 bytes transferred using HTTP compression in 71 files, ratio 24%, 14.1 requests per connection
+(2 errors, 0 warnings, 0 messages)

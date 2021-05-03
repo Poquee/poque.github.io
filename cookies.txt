@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.ezglobalyazilim.com	TRUE	/	FALSE	1999999999	__cfduid	d6b474030f49ea9e2f8ae99967ea46ad21620042556
+www.ezglobalyazilim.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.ezglobalyazilim.com	TRUE	/	FALSE	1999999999	PHPSESSID	i31r7905u1cdfs7ubic1q21ae2
+
